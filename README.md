@@ -22,7 +22,7 @@ Before running tests locally make sure, you have forked the project to create yo
 Cd into your local repo
      
     $ cd python-unittest-mocking-classroom
-    User@DESKTOP-M5KJ2CI MINGW64 /f/Learnings/TDD/python-unittest-mocking-classroom (master)
+    User@DESKTOP- MINGW64 /f/Learnings/TDD/python-unittest-mocking-classroom (master)
     
 As can be seen above, currently the local repo points to the `master` branch. Create a chile branch with name `feature/add-tests`
 
